@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/Blog-m/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/Blog-m/logo.png</url><title>穿山甲老窝</title><link>/Blog-m/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 05:16:03 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 05:16:03 +0806</pubDate><item><title>Hello World!</title><link>/Blog-m/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/Blog-m/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/Blog-m/logo.png</url><title>穿山甲老窝</title><link>/Blog-m/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 05:23:31 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 05:23:31 +0806</pubDate><item><title>Hello World!</title><link>/Blog-m/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -231,7 +231,7 @@
 &lt;h3&gt;&lt;a href="#部署后，部分页面-404"&gt;#&lt;/a&gt; 部署后，部分页面 404&lt;/h3&gt;
 &lt;p&gt;部分情况下，在初次部署之后，部分文章或者页面路径大小如果更改了，会导致新部署上去的页面出现 404 错误。 这是由于 Git 没有区分大小写导致的文件路径错误。修改 &lt;code&gt;hexo根目录/.deploy_git/.git/&lt;/code&gt; 下的 &lt;code&gt;config&lt;/code&gt; 文件&lt;/p&gt;
 &lt;h2&gt;&lt;a href="#视频"&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
-</description><author>ztfword@foxmail.com</author><guid isPermaLink="true">/Blog-m/archives/部署Hexo/</guid><pubDate>Mon, 22 Feb 2021 13:20:54 +0806</pubDate></item><item><title>使用Maverick做一个静态页面的博客</title><link>/Blog-m/archives/typography/</link><description>&lt;blockquote&gt;&lt;p&gt;　　这几天一直想要做一个自己的个人网站，于是跟着网上的教学使用Hexo做了一个使用github的穿山甲小窝，却出了各种问题(生成的静态页面没有样式、为了解决没有样式的问题修改配置文件后样式有了却因为重定向的问题无法预览、皮肤不能用等等一些问题)。&lt;/p&gt;
+</description><author>ztfword@foxmail.com</author><guid isPermaLink="true">/Blog-m/archives/部署Hexo/</guid><pubDate>Mon, 22 Feb 2021 13:20:54 +0806</pubDate></item><item><title>使用Maverick做一个静态页面的博客</title><link>/Blog-m/archives/Use Maverick to make a static page blog/</link><description>&lt;blockquote&gt;&lt;p&gt;　　这几天一直想要做一个自己的个人网站，于是跟着网上的教学使用Hexo做了一个使用GitHub的穿山甲小窝，却出了各种问题(生成的静态页面没有样式、为了解决没有样式的问题修改配置文件后样式有了却因为重定向的问题无法预览、皮肤不能用等等一些问题)。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1&gt;为什么使用Maverick来制作？&lt;/h1&gt;
 &lt;p&gt;其实是想要放弃调试Hexo了抱着试一试的想法就去咕咕了一下，一个标题为&lt;a href="https://sspai.com/post/58013"&gt;用 GitHub 搭建静态博客太繁琐？用这个小工具实现「傻瓜式」发布&lt;/a&gt;&lt;/p&gt;
@@ -247,4 +247,4 @@
 &lt;li&gt;免费、超快的全球 CDN&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;因为这些看上去就很方便，所以对我这种懒人来说有着致命的吸引力&lt;/p&gt;
-</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/Blog-m/archives/typography/</guid><pubDate>Tue, 23 Feb 2021 13:13:43 +0806</pubDate></item></channel></rss>
+</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/Blog-m/archives/Use Maverick to make a static page blog/</guid><pubDate>Tue, 23 Feb 2021 13:13:43 +0806</pubDate></item></channel></rss>

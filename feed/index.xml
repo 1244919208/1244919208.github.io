@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 06:12:50 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 06:12:50 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 06:22:42 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 06:22:42 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -238,6 +238,7 @@
 &lt;p&gt;其实是想要放弃调试Hexo了抱着试一试的想法就去咕咕了一下，一个标题为&lt;a href="https://sspai.com/post/58013"&gt;用 GitHub 搭建静态博客太繁琐？用这个小工具实现「傻瓜式」发布&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;的文章让我虎躯一震，两目大放精光自豪地想我就是个笨蛋！于是就点了进去。&lt;/p&gt;
 &lt;h2&gt;什么是Maverick？&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/AlanDecode/Maverick"&gt;Maverick&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;同样是由刚刚那篇文章的博主开发的基于Python的静态博客生成器&lt;/p&gt;
 &lt;h2&gt;Maverick吸引我的地方(博主说的)&lt;/h2&gt;
 &lt;ol&gt;
@@ -252,4 +253,6 @@
 &lt;p&gt;只能说我是傻逼，在克隆项目后我在本地使用VS code直接Push马克蛋文件到github导致自动部署错误，开始还以为是项目本身的问题让项目背了锅。。。隔天继续查看博主博文的时候才发现博主早就把路铺好了让我走，结果我走歪了罢。项目中的update_site文件就是本地编辑Push的文件，本来轻轻松松的事让我给搞复杂了&lt;/p&gt;
 &lt;p&gt;&lt;figure style="flex: 128.1904761904762" &gt;&lt;img width="1346" height="525" src="https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/archives/assets/db22f765e02d58495489f0da4bc8f722.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h1&gt;参考链接&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://github.com/AlanDecode/Maverick"&gt;Maverick&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate"&gt;自动部署仓&lt;/a&gt;&lt;/p&gt;
 </description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/Use Maverick to make a static page blog/</guid><pubDate>Tue, 23 Feb 2021 13:13:43 +0806</pubDate></item></channel></rss>

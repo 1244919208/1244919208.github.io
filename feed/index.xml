@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 13:23:17 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 13:23:17 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 23 Feb 2021 15:11:34 +0806</lastBuildDate><pubDate>Tue, 23 Feb 2021 15:11:34 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -270,4 +270,36 @@
 &lt;/ol&gt;
 &lt;h2&gt;正文&lt;/h2&gt;
 &lt;p&gt;在域名提供商那绑定域名到GitHub的服务器地址后将CNAME文件放入static文件夹，push，等待，然后访问域名或在setting页面的Pages查看成功没&lt;/p&gt;
-</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/About changing the GitHub Pages domain name/</guid><pubDate>Tue, 23 Feb 2021 20:30:49 +0806</pubDate></item></channel></rss>
+</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/About changing the GitHub Pages domain name/</guid><pubDate>Tue, 23 Feb 2021 20:30:49 +0806</pubDate></item><item><title>把博客加入搜索引擎索引</title><link>/archives/Add blog to search engine index/</link><description>&lt;blockquote&gt;&lt;p&gt;别人看不到的博客叫笔记本&lt;/p&gt;
+&lt;h2&gt;谷歌&lt;/h2&gt;
+&lt;h3&gt;准备&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;首先得是个马猴烧酒，或者人在Free的国度&lt;/li&gt;
+&lt;li&gt;晓得用鼠标和键盘&lt;/li&gt;
+&lt;li&gt;有Google账号&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;开始&lt;/h3&gt;
+&lt;p&gt;进入
+点击立即使用登录Google账号-添加资源&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\XxLzMQkCBAgQIECAAAECBAgQIECAAAECBAgQIECAAAECBAgsdYGaiUx+NQIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQIECBBYVIGnUYz7fwBC7m+8cDzHZQAAAABJRU5ErkJggg==.jpg" /&gt;&lt;/figure&gt;
+输入想要添加索引的域名，随便选择一个更方便的
+&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\D7ELEe7DeQtOAAAAAElFTkSuQmCC.jpg" /&gt;&lt;/figure&gt;
+填入网址后会有这样一个页面（网址是我乱填的）&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\3.jpg" /&gt;&lt;/figure&gt;
+之后是这样&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\5.jpg" /&gt;&lt;/figure&gt;
+将文件下载后上传到网站的根目录，点击验证。成功后就完成2/3了
+还有其他的验证方法如下图，如何操作系统都会详细地解说我就不赘述了&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\6.jpg" /&gt;&lt;/figure&gt;
+在验证成功后将sitemap.xml文件的路径填入站点地图中，之后Google会自动验证网站名下的网址
+到这就大功告成了&lt;/p&gt;
+&lt;h2&gt;百度&lt;/h2&gt;
+&lt;p&gt;这个是最麻烦的，因为我的是github pages搭建的博客。。。毕竟我又穷又想稳定。。。&lt;/p&gt;
+&lt;h3&gt;麻烦&lt;/h3&gt;
+&lt;p&gt;GitHub是屏蔽百度爬虫的，也就是说想要加入百度索引就必须曲线救国&lt;/p&gt;
+&lt;h3&gt;方法&lt;/h3&gt;
+&lt;p&gt;使用vercel.com的服务将gh-pages分支的文件拉取到vercel.com的服务器从而绕过屏蔽&lt;/p&gt;
+&lt;h3&gt;如何实施&lt;/h3&gt;
+&lt;h2&gt;必应&lt;/h2&gt;
+&lt;p&gt;与谷歌大同小异，还可以直接登录谷歌账号获取站点验证和站点地图，肥肠滴方便
+进入登录微软账号或者Google账号，点击&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\7.jpg" /&gt;&lt;/figure&gt;
+之后会弹出验证弹窗&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="\images\8.jpg" /&gt;&lt;/figure&gt;可以直接导入，也可以从GSC导入操作何Google差不多甚至更加便捷&lt;/p&gt;
+&lt;p&gt;加入这三大搜索引擎后或多或少会有人能看到自己写的文章，辛苦也没白费&lt;/p&gt;
+</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/Add blog to search engine index/</guid><pubDate>Tue, 23 Feb 2021 23:09:18 +0806</pubDate></item></channel></rss>

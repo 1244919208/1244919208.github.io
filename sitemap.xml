@@ -1,56 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?>
-<urlset 
-xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
-    <loc>/wechat/</loc>
-    <lastmod>2021-02-24</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
+  <loc>https://csjss.top/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/about/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/wechat/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/Add%20blog%20to%20search%20engine%20index/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/About%20changing%20the%20GitHub%20Pages%20domain%20name/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/Use%20Maverick%20to%20make%20a%20static%20page%20blog/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/%E9%83%A8%E7%BD%B2Hexo/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/archives/typography/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://csjss.top/category/GitHub/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/tag/Blog/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/tag/GitHub/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/tag/%E6%97%A5%E8%AE%B0/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/category/Default/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/category/Maverick/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/tag/Design/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://csjss.top/tag/Typography/</loc>
+  <lastmod>2021-02-25T13:12:49+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
-<url>
-    <loc>/about/</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-</url>
-
-<url>
-    <loc>/archives/Add blog to search engine index/</loc>
-    <lastmod>2021-02-23</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/About changing the GitHub Pages domain name/</loc>
-    <lastmod>2021-02-23</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/Use Maverick to make a static page blog/</loc>
-    <lastmod>2021-02-23</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/部署Hexo/</loc>
-    <lastmod>2021-02-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/typography/</loc>
-    <lastmod>2019-12-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
 
 </urlset>

@@ -19,20 +19,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/None/</loc>
-    <lastmod>2021-02-24</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/Add Baidu Statistics to the blog/</loc>
-    <lastmod>2021-02-24</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
     <loc>/archives/Add blog to search engine index/</loc>
     <lastmod>2021-02-23</lastmod>
     <changefreq>always</changefreq>

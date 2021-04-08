@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>穿山甲老窝</title><updated>2021-04-08T09:59:17.932908+08:06</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</logo><subtitle>回收废旧大老婆二老婆</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-04-08T09:59:17.933197+00:00</updated><author><name>AlanDecode</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>穿山甲老窝</title><updated>2021-04-08T10:03:12.871061+08:06</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</logo><subtitle>回收废旧大老婆二老婆</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-04-08T10:03:12.871400+00:00</updated><author><name>AlanDecode</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -78,7 +78,7 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/部署Hexo/</id><title>部署Hexo</title><updated>2021-04-08T09:59:17.933171+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;原文地址 &lt;a href="https://easyhexo.com/1-Hexo-install-and-config/1-4-deploy-hexo.html#%E9%83%A8%E7%BD%B2%E5%88%B0-centos-servers"&gt;easyhexo.com&lt;/a&gt;&lt;/p&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/部署Hexo/</id><title>部署Hexo</title><updated>2021-04-08T10:03:12.871372+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;原文地址 &lt;a href="https://easyhexo.com/1-Hexo-install-and-config/1-4-deploy-hexo.html#%E9%83%A8%E7%BD%B2%E5%88%B0-centos-servers"&gt;easyhexo.com&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;&lt;a href="#部署到-github"&gt;#&lt;/a&gt; 部署到 GitHub&lt;/h2&gt;
 &lt;h3&gt;&lt;a href="#准备工作"&gt;#&lt;/a&gt; 准备工作&lt;/h3&gt;
@@ -216,7 +216,7 @@
 &lt;h3&gt;&lt;a href="#部署后，部分页面-404"&gt;#&lt;/a&gt; 部署后，部分页面 404&lt;/h3&gt;
 &lt;p&gt;部分情况下，在初次部署之后，部分文章或者页面路径大小如果更改了，会导致新部署上去的页面出现 404 错误。 这是由于 Git 没有区分大小写导致的文件路径错误。修改 &lt;code&gt;hexo根目录/.deploy_git/.git/&lt;/code&gt; 下的 &lt;code&gt;config&lt;/code&gt; 文件&lt;/p&gt;
 &lt;h2&gt;&lt;a href="#视频"&gt;#&lt;/a&gt; 视频&lt;/h2&gt;
-</content><link href="/archives/部署Hexo/" rel="alternate"/><published>2021-02-22T13:20:54+08:06</published></entry><entry><id>/archives/Use Maverick to make a static page blog/</id><title>使用Maverick做一个静态页面的博客</title><updated>2021-04-08T09:59:17.933144+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;p&gt;[TOC]&lt;/p&gt;
+</content><link href="/archives/部署Hexo/" rel="alternate"/><published>2021-02-22T13:20:54+08:06</published></entry><entry><id>/archives/Use Maverick to make a static page blog/</id><title>使用Maverick做一个静态页面的博客</title><updated>2021-04-08T10:03:12.871343+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;p&gt;[TOC]&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;　　这几天一直想要做一个自己的个人网站，于是跟着网上的教学使用Hexo做了一个使用GitHub的穿山甲小窝，却出了各种问题(生成的静态页面没有样式、为了解决没有样式的问题修改配置文件后样式有了却因为重定向的问题无法预览、皮肤不能用等等一些问题)。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;为什么使用Maverick来制作？&lt;/h2&gt;
@@ -240,7 +240,7 @@
 &lt;h2&gt;参考链接&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://github.com/AlanDecode/Maverick"&gt;Maverick&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate"&gt;自动部署仓&lt;/a&gt;&lt;/p&gt;
-</content><link href="/archives/Use Maverick to make a static page blog/" rel="alternate"/><published>2021-02-23T13:13:43+08:06</published></entry><entry><id>/archives/About changing the GitHub Pages domain name/</id><title>关于更改GitHub Pages域名</title><updated>2021-04-08T09:59:17.933117+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;准备将博客加入各大搜索引擎，毕竟没人看还写啥博客呢&lt;/p&gt;
+</content><link href="/archives/Use Maverick to make a static page blog/" rel="alternate"/><published>2021-02-23T13:13:43+08:06</published></entry><entry><id>/archives/About changing the GitHub Pages domain name/</id><title>关于更改GitHub Pages域名</title><updated>2021-04-08T10:03:12.871315+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;准备将博客加入各大搜索引擎，毕竟没人看还写啥博客呢&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;准备&lt;/h2&gt;
 &lt;ol&gt;
@@ -255,7 +255,7 @@
 &lt;/ol&gt;
 &lt;h2&gt;正文&lt;/h2&gt;
 &lt;p&gt;在域名提供商那绑定域名到GitHub的服务器地址后将CNAME文件放入static文件夹，push，等待，然后访问域名或在setting页面的Pages查看成功没&lt;/p&gt;
-</content><link href="/archives/About changing the GitHub Pages domain name/" rel="alternate"/><published>2021-02-23T20:30:49+08:06</published></entry><entry><id>/archives/Add blog to search engine index/</id><title>把博客加入搜索引擎索引</title><updated>2021-04-08T09:59:17.933087+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;别人看不到的博客叫笔记本&lt;/p&gt;
+</content><link href="/archives/About changing the GitHub Pages domain name/" rel="alternate"/><published>2021-02-23T20:30:49+08:06</published></entry><entry><id>/archives/Add blog to search engine index/</id><title>把博客加入搜索引擎索引</title><updated>2021-04-08T10:03:12.871286+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;blockquote&gt;&lt;p&gt;别人看不到的博客叫笔记本&lt;/p&gt;
 &lt;h2&gt;谷歌&lt;/h2&gt;
 &lt;h3&gt;准备&lt;/h3&gt;
 &lt;ol&gt;
@@ -308,7 +308,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;a href="https://csjss.top/archives/Add%20blog%20to%20search%20engine%20index/"&gt;阅读全文&lt;/a&gt;&lt;/p&gt;
-</content><link href="/archives/Add blog to search engine index/" rel="alternate"/><published>2021-02-23T23:09:18+08:06</published></entry><entry><id>/archives/Linux虚拟机/</id><title>Linux虚拟机</title><updated>2021-04-08T09:59:17.933030+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;本文由 &lt;a href="http://ksria.com/simpread/"&gt;简悦 SimpRead&lt;/a&gt; 转码， 原文地址 &lt;a href="https://www.jianshu.com/p/e31534077185"&gt;www.jianshu.com&lt;/a&gt;&lt;/p&gt;
+</content><link href="/archives/Add blog to search engine index/" rel="alternate"/><published>2021-02-23T23:09:18+08:06</published></entry><entry><id>/archives/Linux虚拟机/</id><title>Linux虚拟机</title><updated>2021-04-08T10:03:12.871253+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;本文由 &lt;a href="http://ksria.com/simpread/"&gt;简悦 SimpRead&lt;/a&gt; 转码， 原文地址 &lt;a href="https://www.jianshu.com/p/e31534077185"&gt;www.jianshu.com&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;figure style="flex: 88.93229166666667" &gt;&lt;img loading="lazy" width="1366" height="768" src="http://upload-images.jianshu.io/upload_images/1906922-33374de68ac927b5.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;CentOS、VMware 双剑合壁&lt;/p&gt;
@@ -432,7 +432,7 @@ CentOS 安装已经尽可能做得友好，你甚至只需要做以下两个设�
 &lt;p&gt;&lt;figure style="flex: 67.0608108108108" &gt;&lt;img loading="lazy" width="794" height="592" src="http://upload-images.jianshu.io/upload_images/1906922-cd5f6e7546bf0e1d.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;设置 root 密码&lt;/p&gt;
 &lt;p&gt;接下来，就是去喝杯咖啡，10 分钟不到——CentOS 7 就成功安装了。&lt;/p&gt;
-</content><link href="/archives/Linux虚拟机/" rel="alternate"/><published>2021-04-03T18:29:33+08:06</published></entry><entry><id>/archives/Application secret/</id><title>应用机密</title><updated>2021-04-08T09:59:17.932974+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;h2&gt;Onemanager&lt;/h2&gt;
+</content><link href="/archives/Linux虚拟机/" rel="alternate"/><published>2021-04-03T18:29:33+08:06</published></entry><entry><id>/archives/Application secret/</id><title>应用机密</title><updated>2021-04-08T10:03:12.871201+00:00</updated><author><name>穿山甲叔叔</name><email>ztfword@foxmail.com</email><uri>csjss.top/</uri></author><content>&lt;h2&gt;Onemanager&lt;/h2&gt;
 &lt;p&gt;client_id ：&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;3d12d79e-c003-4688-9b2b-f16b087a87f5&lt;/code&gt;&lt;/pre&gt;
@@ -452,4 +452,65 @@ id：&lt;/p&gt;
 &lt;p&gt;sc：&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;BUyJx_-li6gQsG.lyj5Ik6eiYd~h6361nm&lt;/code&gt;&lt;/pre&gt;
-</content><link href="/archives/Application secret/" rel="alternate"/><published>2021-04-08T17:08:14+08:06</published></entry></feed>
+</content><link href="/archives/Application secret/" rel="alternate"/><published>2021-04-08T17:08:14+08:06</published></entry><entry><id>/archives/Android Termux 安装 Linux/</id><title>Android Termux 安装 Linux</title><updated>2021-04-08T10:03:12.871141+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;本文由 &lt;a href="http://ksria.com/simpread/"&gt;简悦 SimpRead&lt;/a&gt; 转码， 原文地址 &lt;a href="https://www.sqlsec.com/2020/04/termuxlinux.html"&gt;www.sqlsec.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Termux 在安装好 proot 的情况下，是可以运行 Linux 系统的，利用这个原理，国光写出了 Termux 一键安装 Linux 脚本，让你的 Termux 折腾之路更加简单。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;: &lt;a href="https://github.com/sqlsec/termux-install-linux"&gt;https://github.com/sqlsec/termux-install-linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因为本脚本使用的是 Python3 编写，所以除了 proot 需要安装以外，还需要基本的 Python 环境，Python 相对于 sh 脚本的优点是更灵活，可操作性更强，人生苦短，我用 Python，另外觉得好用的话 不点点个 star 再走吗。&lt;/p&gt;
+&lt;p&gt;执行如下命令安装基本依赖:&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pkg install proot git python -y&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sqlsec/termux-install-linux
+cd termux-install-linux
+python termux-linux-install.py&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 76.44927536231884" &gt;&lt;img loading="lazy" width="844" height="552" src="https://image.3001.net/images/20200423/15876456241183.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;0 学习成本，安装和卸载 Linux 都很方便。&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Ubuntu
+./start-ubuntu.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 82.99595141700405" &gt;&lt;img loading="lazy" width="1640" height="988" src="https://image.3001.net/images/20200423/1587646427613.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这个 Kali 是轻量级的，大家要安装完整的 Kali Nethunter 的话 ，可以参考我的 Termux 文章里面的操作细节:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.sqlsec.com/2018/05/termux.html#toc-heading-120"&gt;Termux 高级终端安装使用配置教程: Kali NetHunter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Kali
+./start-kali.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 72.22222222222223" &gt;&lt;img loading="lazy" width="1430" height="990" src="https://image.3001.net/images/20200423/15876474958738.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Debian
+./start-debian.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 74.64212678936606" &gt;&lt;img loading="lazy" width="1460" height="978" src="https://image.3001.net/images/20200423/15876484859724.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;CentOS 也完美支持，这样理论上用 Termux 跑个宝塔面板应该也不是不可能的了，虽然感觉这样很蛋疼，但评论区真的有人想要这么搞，不是很能理解，手机建站需要端口转发到外网，端口转发到外网需要外网服务器，那么问题来了，既然有外网服务器了，为什么不直接在外网的服务器上建站呢？？？&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/CentOS
+./start-centos.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 80.67484662576688" &gt;&lt;img loading="lazy" width="1578" height="978" src="https://image.3001.net/images/20200423/15876497487617.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这个国光已经更换过源了，但是貌似还是有点慢，感兴趣的朋友可以自己再折腾一下，平时国光很少使用 Fedora，基本上就是 CenotOS、Ubuntu、Kali 用的比较多 …&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Fedora
+./start-fedora.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;启动完成之后手动输入如下命令，重建缓存:&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;yum clean all
+yum makecache&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 80.06535947712419" &gt;&lt;img loading="lazy" width="1470" height="918" src="https://image.3001.net/images/20200423/1587654547348.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;以上操作系统安装与卸载国光均一一测试成功，理论上不会出现安装不了的情况了，日后除非有大的改动，否则 Termux 这一块应该不再更新了，我得去搞我的安全研究去了，路漫漫其修远兮，吾将上下而求索。另外给那些还在读初中或者高中的同学一些忠告：少把时间花在那些工具与系统安装上，多花时间在计算机原理与代码上，有条件的同学还是在电脑上编程比较好，Termux 只是一个玩具性质的工具，只是电脑不在身边的临时替代品，不知不觉又扯多了，溜了溜了。&lt;/p&gt;
+&lt;p&gt;如果你喜欢这篇文章的话 不防点一下网站最下方不起眼的广告表示支持！Thanks♪(･ω･)ﾉ&lt;/p&gt;
+&lt;p&gt;发现一个尴尬的问题，看我这篇文章大人大多数是极客玩家，你们的浏览器自带去广告插件，尽管我的章中的广告位置已经很不起眼了，但是你们可能连点的机会都没有…&lt;/p&gt;
+&lt;p&gt;博客我也写了快 4 年了，文章广告到现在的收益只有 8 美元，有图有真相:&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 116.55011655011656" &gt;&lt;img loading="lazy" width="2000" height="858" src="https://image.3001.net/images/20200421/15874495233711.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;本文可能实际上也没有啥技术含量，但是写起来还是比较浪费时间的，在这个喧嚣浮躁的时代，个人博客越来越没有人看了，写博客感觉一直是用爱发电的状态。如果你恰巧财力雄厚，感觉本文对你有所帮助的话，可以考虑打赏一下本文，用以维持高昂的服务器运营费用（域名费用、服务器费用、CDN 费用等），对博客用 CDN 了，否则访客不会有这么快速友好的体验。&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 50.0" &gt;&lt;img loading="lazy" width="1336" height="1336" src="https://image.3001.net/images/20200421/1587449920128.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微信&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 50.0" &gt;&lt;img loading="lazy" width="600" height="600" src="https://image.3001.net/images/20200421/15874503376388.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支付宝&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没想到文章加入打赏列表没几天 就有热心网友打赏了 于是国光我用 Bootstrap 重写了一个页面 用以感谢 支持我的朋友，详情请看 &lt;a href="https://www.sqlsec.com/dashang.html"&gt;打赏列表 | 国光&lt;/a&gt;&lt;/p&gt;
+</content><link href="/archives/Android Termux 安装 Linux/" rel="alternate"/><published>2021-04-08T17:57:58+08:06</published></entry></feed>

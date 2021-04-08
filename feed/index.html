@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 08 Apr 2021 09:59:17 +0806</lastBuildDate><pubDate>Thu, 08 Apr 2021 09:59:17 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>穿山甲老窝</title><link>/</link><description>回收废旧大老婆二老婆</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/1244919208/1244919208.github.io@gh-pages/logo.png</url><title>穿山甲老窝</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 08 Apr 2021 10:03:12 +0806</lastBuildDate><pubDate>Thu, 08 Apr 2021 10:03:12 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -452,4 +452,65 @@ id：&lt;/p&gt;
 &lt;p&gt;sc：&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;BUyJx_-li6gQsG.lyj5Ik6eiYd~h6361nm&lt;/code&gt;&lt;/pre&gt;
-</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/Application secret/</guid><pubDate>Thu, 08 Apr 2021 17:08:14 +0806</pubDate></item></channel></rss>
+</description><author>ztfword@foxmail.com (穿山甲叔叔)</author><guid isPermaLink="true">/archives/Application secret/</guid><pubDate>Thu, 08 Apr 2021 17:08:14 +0806</pubDate></item><item><title>Android Termux 安装 Linux</title><link>/archives/Android Termux 安装 Linux/</link><description>&lt;blockquote&gt;&lt;p&gt;本文由 &lt;a href="http://ksria.com/simpread/"&gt;简悦 SimpRead&lt;/a&gt; 转码， 原文地址 &lt;a href="https://www.sqlsec.com/2020/04/termuxlinux.html"&gt;www.sqlsec.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Termux 在安装好 proot 的情况下，是可以运行 Linux 系统的，利用这个原理，国光写出了 Termux 一键安装 Linux 脚本，让你的 Termux 折腾之路更加简单。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;项目地址&lt;/strong&gt;: &lt;a href="https://github.com/sqlsec/termux-install-linux"&gt;https://github.com/sqlsec/termux-install-linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;因为本脚本使用的是 Python3 编写，所以除了 proot 需要安装以外，还需要基本的 Python 环境，Python 相对于 sh 脚本的优点是更灵活，可操作性更强，人生苦短，我用 Python，另外觉得好用的话 不点点个 star 再走吗。&lt;/p&gt;
+&lt;p&gt;执行如下命令安装基本依赖:&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;pkg install proot git python -y&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sqlsec/termux-install-linux
+cd termux-install-linux
+python termux-linux-install.py&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 76.44927536231884" &gt;&lt;img loading="lazy" width="844" height="552" src="https://image.3001.net/images/20200423/15876456241183.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;0 学习成本，安装和卸载 Linux 都很方便。&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Ubuntu
+./start-ubuntu.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 82.99595141700405" &gt;&lt;img loading="lazy" width="1640" height="988" src="https://image.3001.net/images/20200423/1587646427613.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这个 Kali 是轻量级的，大家要安装完整的 Kali Nethunter 的话 ，可以参考我的 Termux 文章里面的操作细节:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.sqlsec.com/2018/05/termux.html#toc-heading-120"&gt;Termux 高级终端安装使用配置教程: Kali NetHunter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Kali
+./start-kali.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 72.22222222222223" &gt;&lt;img loading="lazy" width="1430" height="990" src="https://image.3001.net/images/20200423/15876474958738.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Debian
+./start-debian.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 74.64212678936606" &gt;&lt;img loading="lazy" width="1460" height="978" src="https://image.3001.net/images/20200423/15876484859724.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;CentOS 也完美支持，这样理论上用 Termux 跑个宝塔面板应该也不是不可能的了，虽然感觉这样很蛋疼，但评论区真的有人想要这么搞，不是很能理解，手机建站需要端口转发到外网，端口转发到外网需要外网服务器，那么问题来了，既然有外网服务器了，为什么不直接在外网的服务器上建站呢？？？&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/CentOS
+./start-centos.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 80.67484662576688" &gt;&lt;img loading="lazy" width="1578" height="978" src="https://image.3001.net/images/20200423/15876497487617.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;这个国光已经更换过源了，但是貌似还是有点慢，感兴趣的朋友可以自己再折腾一下，平时国光很少使用 Fedora，基本上就是 CenotOS、Ubuntu、Kali 用的比较多 …&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd ~/Termux-Linux/Fedora
+./start-fedora.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;启动完成之后手动输入如下命令，重建缓存:&lt;/p&gt;
+&lt;p&gt;Bash&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;yum clean all
+yum makecache&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;figure style="flex: 80.06535947712419" &gt;&lt;img loading="lazy" width="1470" height="918" src="https://image.3001.net/images/20200423/1587654547348.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;以上操作系统安装与卸载国光均一一测试成功，理论上不会出现安装不了的情况了，日后除非有大的改动，否则 Termux 这一块应该不再更新了，我得去搞我的安全研究去了，路漫漫其修远兮，吾将上下而求索。另外给那些还在读初中或者高中的同学一些忠告：少把时间花在那些工具与系统安装上，多花时间在计算机原理与代码上，有条件的同学还是在电脑上编程比较好，Termux 只是一个玩具性质的工具，只是电脑不在身边的临时替代品，不知不觉又扯多了，溜了溜了。&lt;/p&gt;
+&lt;p&gt;如果你喜欢这篇文章的话 不防点一下网站最下方不起眼的广告表示支持！Thanks♪(･ω･)ﾉ&lt;/p&gt;
+&lt;p&gt;发现一个尴尬的问题，看我这篇文章大人大多数是极客玩家，你们的浏览器自带去广告插件，尽管我的章中的广告位置已经很不起眼了，但是你们可能连点的机会都没有…&lt;/p&gt;
+&lt;p&gt;博客我也写了快 4 年了，文章广告到现在的收益只有 8 美元，有图有真相:&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 116.55011655011656" &gt;&lt;img loading="lazy" width="2000" height="858" src="https://image.3001.net/images/20200421/15874495233711.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;本文可能实际上也没有啥技术含量，但是写起来还是比较浪费时间的，在这个喧嚣浮躁的时代，个人博客越来越没有人看了，写博客感觉一直是用爱发电的状态。如果你恰巧财力雄厚，感觉本文对你有所帮助的话，可以考虑打赏一下本文，用以维持高昂的服务器运营费用（域名费用、服务器费用、CDN 费用等），对博客用 CDN 了，否则访客不会有这么快速友好的体验。&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 50.0" &gt;&lt;img loading="lazy" width="1336" height="1336" src="https://image.3001.net/images/20200421/1587449920128.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;微信&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 50.0" &gt;&lt;img loading="lazy" width="600" height="600" src="https://image.3001.net/images/20200421/15874503376388.jpg" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;支付宝&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;没想到文章加入打赏列表没几天 就有热心网友打赏了 于是国光我用 Bootstrap 重写了一个页面 用以感谢 支持我的朋友，详情请看 &lt;a href="https://www.sqlsec.com/dashang.html"&gt;打赏列表 | 国光&lt;/a&gt;&lt;/p&gt;
+</description><author>ztfword@foxmail.com</author><guid isPermaLink="true">/archives/Android Termux 安装 Linux/</guid><pubDate>Thu, 08 Apr 2021 17:57:58 +0806</pubDate></item></channel></rss>
